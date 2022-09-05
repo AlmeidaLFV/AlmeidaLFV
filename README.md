@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlmeidaLFV
-- 👀 I’m interested in Data Analysis in general, with a special interest in its applications to Biological sciences.
-- 🌱 I’m currently learning R and Python
+- 👀 I’m interested in Data Analysis, with a special interest in its applications to Biological sciences.
+- 🌱 Currently learning R and Python
 
 
 <!---
